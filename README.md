@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hello, stupid world!</h1>
+<h1>Goodbye, stupid world!</h1>
+<p>I should create a site called <i>Rants.github.io</i> or something where I rant about stuff I hate, shoouldn't I?</p>
 
-<!--
-**MTM828/MTM828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Well anyway,</h1>
+<p>I'm... who was I again?<br>I know HTML5, CSS, JS, Python and Java. I'm learning C++.</p>
 
-Here are some ideas to get you started:
+<h1>Accounts:</h1>
+<ul>
+    <li><a href="scratch.mit.edu/users/MTM828">Scratch</a></li>
+</ul>
+<p>... I think that's it.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Uuum...</h1>
+<p>I hate cats.</p>
+<p>That's pretty much it.</p>
