@@ -1,4 +1,4 @@
-<h1>MTM828</h1>
+<img src="/MTM828.png">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MTM828&show_icons=true&theme=merko)
 
