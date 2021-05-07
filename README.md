@@ -14,6 +14,6 @@ To do:
 - Add more tings to this list lol
 
 ### One Eyed Tim
-This is One Eyed Tim:
-(.
+This is One Eyed Tim:<br>
+(.<br>
 He helps me with my Java projects.
