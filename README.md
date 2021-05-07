@@ -12,3 +12,8 @@ To do:
 - Go back to learning GLFW and GLSL
 - Create a proper README.md :P
 - Add more tings to this list lol
+
+### One Eyed Tim
+This is One Eyed Tim:
+(.
+He helps me with my Java projects.
