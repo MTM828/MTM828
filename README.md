@@ -12,5 +12,5 @@ To do:
 - Add some stuff to https://github.com/sparshg/py-games
 - Finish https://github.com/mtm828/shefwerld
 - Go back to learning GLFW and GLSL
-- Create a proper README.md :P
+- Create a propper README.md :P
 - Add more tings to this list lol
