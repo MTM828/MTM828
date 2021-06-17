@@ -7,4 +7,4 @@ To do:
 - Finish https://github.com/mtm828/shefwerld
 - Go back to learning GLFW and GLSL
 - Create a propper README.md :P
-- Add more tings to this list lol
+- Add more things to this list lol
