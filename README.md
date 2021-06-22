@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTM828&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-To do:
+<s>To do:
 - Finish https://github.com/mtm828/java-pong
 - <s>Finish</s> Rewrite https://github.com/mtm828/mtm828.github.io
 - Add some stuff to https://github.com/sparshg/py-games
@@ -8,3 +8,7 @@ To do:
 - Go back to learning GLFW and GLSL
 - Create a propper README.md :P
 - Add more things to this list lol
+</s>
+
+nvm im too lazy to do all of this
+ill just do it all later
