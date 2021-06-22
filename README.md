@@ -10,5 +10,5 @@
 - Add more things to this list lol
 </s>
 
-nvm im too lazy to do all of this
+nvm im too lazy to do all of this<br>
 ill just do it all later
