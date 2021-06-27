@@ -6,4 +6,4 @@ To do:
 - Finish https://github.com/mtm828/shefwerld
 - Learn GLFW
 - Create a propper README :P
-- Share some of my local work
+- Share some more stuff
